@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Blend for Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaterialDash", "MaterialDash.csproj", "{C5972E70-F7E3-4F06-BB8B-607BD9129CD8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5972E70-F7E3-4F06-BB8B-607BD9129CD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5972E70-F7E3-4F06-BB8B-607BD9129CD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5972E70-F7E3-4F06-BB8B-607BD9129CD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5972E70-F7E3-4F06-BB8B-607BD9129CD8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3B70E35-646A-4F54-977E-75E55D925CA1}
+	EndGlobalSection
+EndGlobal
